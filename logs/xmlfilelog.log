@@ -6,3 +6,5 @@
 [FATAL] 2017-10-25 11:23:42.116 [main] Log4J2XmlConf - This is a fatal message
 [ERROR] 2017-10-25 11:46:08.086 [main] Log4J2XmlConf - This is an error message
 [FATAL] 2017-10-25 11:46:08.086 [main] Log4J2XmlConf - This is a fatal message
+[ERROR] 2017-10-25 11:55:41.811 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-25 11:55:41.811 [main] Log4J2XmlConf - This is a fatal message
