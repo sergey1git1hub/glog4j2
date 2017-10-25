@@ -1,0 +1,4 @@
+[ERROR] 2017-10-25 10:42:40.430 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-25 10:42:40.430 [main] Log4J2XmlConf - This is a fatal message
+[ERROR] 2017-10-25 10:46:14.719 [main] Log4J2XmlConf - This is an error message
+[FATAL] 2017-10-25 10:46:14.719 [main] Log4J2XmlConf - This is a fatal message

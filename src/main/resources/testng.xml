@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="log4j2">
+    <test name="log4j2">
+        <classes>
+            <class name="guru.springframework.blog.log4j2xml.Log4J2XmlConfTest"/>
+        </classes>
+    </test>
+
+</suite>
